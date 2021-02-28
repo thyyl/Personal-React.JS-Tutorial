@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Reference: https://www.youtube.com/watch?v=Lf6zONwYeec&ab_channel=Bedimcode
+Result: Failed to move upon mouseMove
+
 ## Available Scripts
 
 In the project directory, you can run:
