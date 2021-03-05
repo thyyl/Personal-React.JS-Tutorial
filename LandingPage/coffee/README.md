@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Reference: https://www.youtube.com/watch?v=Lf6zONwYeec&ab_channel=Bedimcode
-
 Result: Failed to move upon mouseMove
 
 ## Available Scripts
@@ -72,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Reference: https://www.youtube.com/watch?v=Lf6zONwYeec&ab_channel=Bedimcode
